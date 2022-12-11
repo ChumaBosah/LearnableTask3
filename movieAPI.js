@@ -236,35 +236,6 @@ Store.Movie10Details()
 
 Store.Movie10Tails()
 
-
-// Store. Movie5Details()
-
-// Store.Movie5Tails()
-
-// Store.Movie6Details()
-
-// Store.Movie6Tails()
-
-// Store.Movie7Details()
-
-// Store.Movie7tails()
-
-// Store.Movie8Details()
-
-// Store. Movie8tails()
-
-// Store. Movie9Details()
-
-// Store. Movie9tails()
-
-// Store. Movie10Details()
-
-// Store. Movie10tails()
-
-
-
-
-
 Movies.storeOwner = `Chuma Bosah`
 console.log(Movies)
 
